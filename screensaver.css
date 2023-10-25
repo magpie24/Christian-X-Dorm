@@ -1,45 +1,45 @@
 .line1 {
-    width: 1015px;
-    height: 1px;
-    position: absolute;
+    width:1015px;
+    height:1px;
+    position:absolute;
     border: 18px solid #A1ACD0;
-    transform:rotate (90deg);
+    transform:rotate(90deg);
     margin-left: 190px;
-    margin-top: 871px; 
+    margin-top:871px; 
     background: #A1ACD0;
     border-radius: 50px;
 }
 .line2 {
-    width: 1000px;
-    height:1 px;
-    position: absolute;
+    width:1000px;
+    height:1px;
+    position:absolute;
     border: 18px solid #A1ACD0;
-    transform-origin: top;
-    transform: rotate (90deg);
+    transform-origin:top;
+    transform:rotate(90deg);
     margin-left: -416px;
     margin-top: 867px; 
     background: #A1ACD0;
     border-radius: 50px;
 }
 .line3 {
-    width: 450px;
-    height: 1px;
-    position: absolute;
+    width:448px;
+    height:1px;
+    position:absolute;
     border: 18px solid #A1ACD0;
-    transform-origin: top;
-    transform:rotate (136deg);
+    transform-origin:top;
+    transform:rotate(136deg);
     margin-left: 16px;
     margin-top: 225px;
     background: #A1ACD0;
     border-radius: 50px;
 }
 .line4 {
-    width: 441px;
-    height: 1px;
-    position: absolute;
+    width:439px;
+    height:1px;
+    position:absolute;
     border: 18px solid #A1ACD0;
-    transform-origin: top;
-    transform:rotate (-132deg);
+    transform-origin:top;
+    transform:rotate(-132deg);
     margin-left: 312px;
     margin-top: 222px;
     background: #A1ACD0;
