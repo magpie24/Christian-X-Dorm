@@ -1,3 +1,5 @@
+/* Logo */
+
 .logo{
     width: 138px;
     height: 118.4px;
@@ -5,16 +7,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-h2{
-    font-size: 22px;
-    font-family: Arial;
-    text-align: center;
-}
-
-.care < a{
-    text-decoration: underline;
 }
 
 /* Back arrow */
@@ -188,4 +180,14 @@ h2{
 
 .menu a{
     text-decoration: none;
+}
+
+.care < a{
+  text-decoration: underline;
+}
+
+h2{
+  font-size: 22px;
+  font-family: Arial;
+  text-align: center;
 }
